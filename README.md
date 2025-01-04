@@ -6,5 +6,6 @@ Ire resolviendo los retos utilizando JavaScript para practicar y mejorar mis hab
 ### Lista de Retos
 
 1. **Preparar Regalos**: Eliminar regalos duplicados y ordenar la lista.
+2. **Enmarcar Nombres**: Enmarca el listado de nombres.
 
 Próximamente se añadirán más retos a esta lista.
