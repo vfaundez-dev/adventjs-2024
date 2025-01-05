@@ -7,6 +7,7 @@ Ire resolviendo los retos utilizando JavaScript para practicar y mejorar mis hab
 
 1. **Preparar Regalos**: Eliminar regalos duplicados y ordenar la lista.
 2. **Enmarcar Nombres**: Enmarca el listado de nombres.
-2. **Organizando el Inventario**: Organizar inventario de santa por categoria, dentro productos no repetidos y sumar totales de estos.
+3. **Organizando el Inventario**: Organizar inventario de santa por categoria, dentro productos no repetidos y sumar totales de estos.
+4. **Decorando el Arbol de Navidad**: Generar un arbol navideño con el alto y simbolo ingresado.
 
 Próximamente se añadirán más retos a esta lista.
